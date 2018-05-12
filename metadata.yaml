@@ -1,5 +1,8 @@
 _repo: A-Tramp-s-Sketches_11980
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Graham, Stephen
@@ -15,6 +18,8 @@ description: In the days before air travel, journeys to foreign lands were rathe
   the most revered British travel writers during this period, and the essays and short
   works collected in A Tramp's Sketches represent an edifying introduction to his
   ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11980#A-Tramp-s-Sketches
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
